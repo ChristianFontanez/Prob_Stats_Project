@@ -12,6 +12,8 @@ This roadmap records the agreed division of data and exploratory work and propos
 | Presentation | December 1, 2026; time to confirm | Slides ready November 30 |
 | Final group report and individual reflections | December 14, 2026, **12:00 p.m. Eastern; no late submissions** | Submit December 13 |
 
+[Kanban board](https://github.com/users/ChristianFontanez/projects/4) · [Issues](https://github.com/ChristianFontanez/Prob_Stats_Project/issues)
+
 ## Working agreement
 
 - Ava leads preparation of one universal clean dataset. Original inputs remain unchanged. Record filters, exclusions, missingness, duplicate rules and any joins in reproducible R code.
@@ -25,18 +27,18 @@ This roadmap records the agreed division of data and exploratory work and propos
 
 | Issue | Lead | Proposed target | Dependencies |
 |---|---|---|---|
-| [#1 Lock question and population](https://github.com/Thomasbtt25/Prob_Stats_Project/issues/1) | Christian; all approve | Nov 1 | None |
-| [#2 Document sources and variables](https://github.com/Thomasbtt25/Prob_Stats_Project/issues/2) | Ava | Nov 2 | #1 |
-| [#3 Prepare shared dataset in R](https://github.com/Thomasbtt25/Prob_Stats_Project/issues/3) | Ava | Nov 4 | #2 |
-| [#4 Check exclusions and joins](https://github.com/Thomasbtt25/Prob_Stats_Project/issues/4) | Ava; Thomas reviews | Nov 5 | #3 |
-| [#5 Freeze dataset v1 and verify loading](https://github.com/Thomasbtt25/Prob_Stats_Project/issues/5) | Ava; Christian reviews | Nov 6 | #4 |
-| [#6 Christian's independent summaries](https://github.com/Thomasbtt25/Prob_Stats_Project/issues/6) | Christian | Nov 7 | #5 |
-| [#7 Thomas's independent summaries](https://github.com/Thomasbtt25/Prob_Stats_Project/issues/7) | Thomas | Nov 7 | #5 |
-| [#8 Christian's two exploratory graphs](https://github.com/Thomasbtt25/Prob_Stats_Project/issues/8) | Christian | Nov 8 | #6 |
-| [#9 Thomas's two exploratory graphs](https://github.com/Thomasbtt25/Prob_Stats_Project/issues/9) | Thomas | Nov 8 | #7 |
-| [#10 Compare findings and resolve differences](https://github.com/Thomasbtt25/Prob_Stats_Project/issues/10) | Christian and Thomas; Ava handles data fixes | Nov 9 | #8, #9 |
+| [#1 Lock question and population](https://github.com/ChristianFontanez/Prob_Stats_Project/issues/1) | Christian; all approve | Nov 1 | None |
+| [#2 Document sources and variables](https://github.com/ChristianFontanez/Prob_Stats_Project/issues/2) | Ava | Nov 2 | #1 |
+| [#3 Prepare shared dataset in R](https://github.com/ChristianFontanez/Prob_Stats_Project/issues/3) | Ava | Nov 4 | #2 |
+| [#4 Check exclusions and joins](https://github.com/ChristianFontanez/Prob_Stats_Project/issues/4) | Ava; Thomas reviews | Nov 5 | #3 |
+| [#5 Freeze dataset v1 and verify loading](https://github.com/ChristianFontanez/Prob_Stats_Project/issues/5) | Ava; Christian reviews | Nov 6 | #4 |
+| [#6 Christian's independent summaries](https://github.com/ChristianFontanez/Prob_Stats_Project/issues/6) | Christian | Nov 7 | #5 |
+| [#7 Thomas's independent summaries](https://github.com/ChristianFontanez/Prob_Stats_Project/issues/7) | Thomas | Nov 7 | #5 |
+| [#8 Christian's two exploratory graphs](https://github.com/ChristianFontanez/Prob_Stats_Project/issues/8) | Christian | Nov 8 | #6 |
+| [#9 Thomas's two exploratory graphs](https://github.com/ChristianFontanez/Prob_Stats_Project/issues/9) | Thomas | Nov 8 | #7 |
+| [#10 Compare findings and resolve differences](https://github.com/ChristianFontanez/Prob_Stats_Project/issues/10) | Christian and Thomas; Ava handles data fixes | Nov 9 | #8, #9 |
 
-Ava’s confirmed GitHub account is @kava117; her data-preparation issues are assigned to that account.
+Ava’s confirmed GitHub account is @kava117. Thomas (@Thomasbtt25) and Ava have read/write invitations; formal issue assignments await their acceptance in this repository.
 
 ## Remaining draft work
 
