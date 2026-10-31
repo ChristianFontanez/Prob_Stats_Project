@@ -6,6 +6,7 @@ Fall 2026 group project by **Ava, Thomas, and Christian**. We are studying used-
 
 - [Kanban board](https://github.com/users/ChristianFontanez/projects/4)
 - [Roadmap and responsibilities](ROADMAP.md)
+- [Assignment guidelines, instructor feedback, and project context](docs/README.md)
 - [Issues](https://github.com/ChristianFontanez/Prob_Stats_Project/issues) · [Milestones](https://github.com/ChristianFontanez/Prob_Stats_Project/milestones)
 
 ## Deadlines
