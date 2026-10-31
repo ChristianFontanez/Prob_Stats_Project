@@ -36,7 +36,7 @@ This roadmap records the agreed division of data and exploratory work and propos
 | [#9 Thomas's two exploratory graphs](https://github.com/Thomasbtt25/Prob_Stats_Project/issues/9) | Thomas | Nov 8 | #7 |
 | [#10 Compare findings and resolve differences](https://github.com/Thomasbtt25/Prob_Stats_Project/issues/10) | Christian and Thomas; Ava handles data fixes | Nov 9 | #8, #9 |
 
-Ava's GitHub assignment remains pending username confirmation. Proposed leads are recorded in her issues.
+Ava’s confirmed GitHub account is @kava117; her data-preparation issues are assigned to that account.
 
 ## Remaining draft work
 
@@ -114,7 +114,7 @@ Each reflection is 150–200 words and includes the student's name and project t
 - Existing repository files contain asking prices and complaint summaries. Do not assume KBB values, MPG or NHTSA overall safety ratings are available. Verify required variables before expanding scope.
 - Model years and listing dates differ. Complaint counts are not failure probabilities, and reported failure mileage does not estimate remaining vehicle life.
 - If complaint data are used, check duplicate complaint/component records, match failures, exposure denominators and complaint timing relative to listings.
-- Confirm full names, Ava's GitHub username, exact draft/presentation times and presentation format.
+- Confirm full names, exact draft/presentation times and presentation format.
 
 ## Requirement sources
 
